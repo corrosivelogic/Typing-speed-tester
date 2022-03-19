@@ -1,0 +1,3 @@
+([('TST',
+   '/Users/yashtanwar/Downloads/Typing speed tester/dist/TST',
+   'EXECUTABLE')],)
